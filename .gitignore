@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# furui databases
+*.db
+*.db-wal
+*.db-shm
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
